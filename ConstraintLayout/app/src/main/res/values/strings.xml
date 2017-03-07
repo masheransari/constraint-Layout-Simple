@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="demoText">As shown above. We can see, that is the most used design pattern in Android lists. How I achieve this I will show you later in XML. Only first focus on Arrows which you can see easily in image. Basically these arrows are telling you how we use relative layout tags to manage this UI. Like Title TextView is android:layout_toRightOf ImageView.  As a user requirement 1. I want a ImageView on left side of screen having 4:3 ratio in size. 2. I want a Title with one line text after Image view up to end of screen. 3. I want a Description, below title and after image view up to end of a screen with max 2 lines. 4. I want a Button, below ImageView and left align with description.  Now I am going to explain XML. Important tags are bold.</string>
+</resources>
